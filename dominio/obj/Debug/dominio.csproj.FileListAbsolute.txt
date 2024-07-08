@@ -1,0 +1,6 @@
+C:\Users\ivan_\OneDrive\Escritorio\Curso c# 2\tp final\TpFinalNivel2_BaigorriaIvan\dominio\bin\Debug\dominio.dll
+C:\Users\ivan_\OneDrive\Escritorio\Curso c# 2\tp final\TpFinalNivel2_BaigorriaIvan\dominio\bin\Debug\dominio.pdb
+C:\Users\ivan_\OneDrive\Escritorio\Curso c# 2\tp final\TpFinalNivel2_BaigorriaIvan\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\ivan_\OneDrive\Escritorio\Curso c# 2\tp final\TpFinalNivel2_BaigorriaIvan\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\ivan_\OneDrive\Escritorio\Curso c# 2\tp final\TpFinalNivel2_BaigorriaIvan\dominio\obj\Debug\dominio.dll
+C:\Users\ivan_\OneDrive\Escritorio\Curso c# 2\tp final\TpFinalNivel2_BaigorriaIvan\dominio\obj\Debug\dominio.pdb
